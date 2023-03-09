@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\openweatherLite",
+    "\\openweatherLite\\openweather"
   ],
-  "SelectedNode": "\\C:\\Users\\ayers\\Source\\Repos\\openweatherLite",
+  "SelectedNode": "\\openweatherLite\\openweatherLite.sln",
   "PreviewInSolutionExplorer": false
 }
