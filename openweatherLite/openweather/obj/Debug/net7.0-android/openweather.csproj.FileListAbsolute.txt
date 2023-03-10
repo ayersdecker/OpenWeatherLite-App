@@ -949,14 +949,6 @@ C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debu
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\stamp\_ResolveLibraryProjectImports.stamp
-C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\android\typemaps.arm64-v8a.ll
-C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\android\environment.arm64-v8a.ll
-C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\android\compressed_assemblies.arm64-v8a.ll
-C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\android\typemaps.arm64-v8a.o
-C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\android\environment.arm64-v8a.o
-C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\android\compressed_assemblies.arm64-v8a.o
-C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\android\jni_remap.arm64-v8a.o
-C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\app_shared_libraries\arm64-v8a\libxamarin-app.so
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\android\assets\mscorlib.dll
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\android\assets\System.Collections.Concurrent.dll
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\android\assets\System.Data.Common.dll
@@ -970,3 +962,11 @@ C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debu
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\android\assets\System.Runtime.Extensions.dll
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\android\assets\System.Runtime.Serialization.Formatters.dll
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\android\assets\System.Xml.dll
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\android\typemaps.arm64-v8a.ll
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\android\environment.arm64-v8a.ll
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\android\compressed_assemblies.arm64-v8a.ll
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\android\typemaps.arm64-v8a.o
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\android\environment.arm64-v8a.o
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\android\compressed_assemblies.arm64-v8a.o
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\android\jni_remap.arm64-v8a.o
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\app_shared_libraries\arm64-v8a\libxamarin-app.so

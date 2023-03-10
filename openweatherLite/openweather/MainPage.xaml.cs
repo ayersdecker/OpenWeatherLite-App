@@ -33,7 +33,7 @@ public partial class MainPage : ContentPage
         double longitude = location.Longitude;
 
         // Altitude Assignment
-        string altitude = $"{location.Altitude} m";
+        string altitude = $"{location.Altitude:F2} m";
       
         // Key and URL Build
         string key = "3101f82226ed18424cb3d3077d5ffd37";

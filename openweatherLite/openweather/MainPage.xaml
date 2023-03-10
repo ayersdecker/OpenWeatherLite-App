@@ -27,6 +27,7 @@
                    WidthRequest="100"/>
 
             <VerticalStackLayout 
+                
                 Margin="0,10,0,0"
                 BackgroundColor="Gray"
                 Padding="50">
@@ -49,6 +50,7 @@
                    HorizontalOptions="Center"
                    Text="Weather Type"
                    TextColor="White"
+                   Margin="0,10,0,0"
                    Opacity=".6"
                    FontSize="20"
                    FontAttributes="Bold"/>
@@ -62,6 +64,7 @@
                 <Label x:Name="windLabel"
                    HorizontalOptions="Center"
                    Text="Wind Speed"
+                   Margin="0,10,0,0"
                    Opacity=".6"
                    FontSize="20"
                    FontAttributes="Bold"/>
@@ -75,6 +78,7 @@
                 <Label x:Name="altitudeLabel"
                    HorizontalOptions="Center"
                    Text="Altitude"
+                   Margin="0,10,0,0"
                    Opacity=".6"
                    FontSize="20"
                    FontAttributes="Bold"/>
