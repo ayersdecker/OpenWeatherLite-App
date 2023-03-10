@@ -1,4 +1,4 @@
-# openweatherLite
+# Open Weather Lite
 Version 1.0 is available now!
 
 > Purpose
