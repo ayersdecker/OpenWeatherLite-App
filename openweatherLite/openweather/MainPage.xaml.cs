@@ -15,20 +15,29 @@ public partial class MainPage : ContentPage
     }
     private async void Handle()
     {
-        Report report = await OpenWeather(44, -73.6);
+        Report report = await OpenWeather();
         tempText.Text = report.Temp;
         weatherText.Text = report.Weather;
         weatherIcon.Source = report.Icon;
         scrollBack.BackgroundColor = Color.FromHex(report.Color);
+        altitudeText.Text = report.Altitude;
+        currentText.Text = report.Current;
+        windText.Text = report.Wind;
 
     }
-    public static async Task<Report> OpenWeather(double lat, double lng)
+    public static async Task<Report> OpenWeather()
     {
-        string color;
+        // Get Location from device (Latitude and Longitude) using manifest
+        var location = await Geolocation.GetLocationAsync();
+        double latitude = location.Latitude;
+        double longitude = location.Longitude;
+
+        // Altitude Assignment
+        string altitude = $"{location.Altitude} m";
+      
         // Key and URL Build
         string key = "3101f82226ed18424cb3d3077d5ffd37";
-        string url = $"https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lng}&appid={key}&units=imperial";
-
+        string url = $"https://api.openweathermap.org/data/2.5/weather?lat={latitude}&lon={longitude}&appid={key}&units=imperial";
 
         // Build and Connect to OpenWeather API
         HttpClient client = new HttpClient();
@@ -41,21 +50,24 @@ public partial class MainPage : ContentPage
         dynamic result = JsonConvert.DeserializeObject<dynamic>(content);
         string temp = result.main.temp.ToString() + " F";
         string weather = result.weather[0].main.ToString();
+
+        // Get Weather Icon
         ImageSource icon = $"https://openweathermap.org/img/wn/{result.weather[0].icon.ToString()}.png";
 
-        if(result.dt > result.sys.sunset)
-        {
-            color = "#666666";
-        }
-        else
-        {
-            color = "#48afff";
-        }
+        // Set Background Color
+        string color;
+        if(result.dt > result.sys.sunset || result.dt < result.sys.sunrise){color = "#666666";}
+        else{color = "#48afff";}
+
+        // Get Current
+        string current = result.name;
+
+        // Get Wind
+        string wind = $"{result.wind.speed} mph";
 
         // Return Data
-        return new Report(temp, weather, icon, color);
-
-
+        return new Report(temp, weather, icon, color, altitude, current, wind);
     }
+   
 }
 
