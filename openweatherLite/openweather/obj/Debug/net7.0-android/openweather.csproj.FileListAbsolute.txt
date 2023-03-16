@@ -970,3 +970,6 @@ C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debu
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\android\compressed_assemblies.arm64-v8a.o
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\android\jni_remap.arm64-v8a.o
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\resizetizer\r\drawable\owsplash.png
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\resizetizer\r\drawable\owlogo.png
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\resizetizer\r\drawable\owl.png

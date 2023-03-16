@@ -6,15 +6,16 @@ public partial class MainPage : ContentPage
 {
 
 	public MainPage()
-	{
-        
+	{     
         Shell.SetNavBarIsVisible(this, false);
 		InitializeComponent();
-        Handle();
-        
+        Handle();      
     }
     private async void Handle()
     {
+        LoadingPage.IsVisible = true;
+        RunningPage.IsVisible = false;
+        // Get Data from OpenWeather API and Display
         Report report = await OpenWeather();
         tempText.Text = report.Temp;
         weatherText.Text = report.Weather;
@@ -23,7 +24,12 @@ public partial class MainPage : ContentPage
         altitudeText.Text = report.Altitude;
         currentText.Text = report.Current;
         windText.Text = report.Wind;
+        LoadingPage.IsVisible = false;
+        RunningPage.IsVisible = true;
 
+        // Recursion to update every 1/2 hour
+        //Handle();
+        //Thread.Sleep(1800000); 
     }
     public static async Task<Report> OpenWeather()
     {
@@ -68,6 +74,10 @@ public partial class MainPage : ContentPage
         // Return Data
         return new Report(temp, weather, icon, color, altitude, current, wind);
     }
-   
+
+    private void Button_Clicked(object sender, EventArgs e)
+    {
+        Handle();
+    }
 }
 

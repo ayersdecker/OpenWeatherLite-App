@@ -13,7 +13,7 @@
   <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
   <permission android:name="com.companyname.openweather.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" android:protectionLevel="signature" />
   <uses-permission android:name="com.companyname.openweather.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-  <application android:name="crc6466e339ee51d4f0f2.MainApplication" android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:debuggable="true" android:extractNativeLibs="true" android:icon="@mipmap/appicon" android:label="openweather" android:roundIcon="@mipmap/appicon_round" android:supportsRtl="true">
+  <application android:name="crc6466e339ee51d4f0f2.MainApplication" android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:debuggable="true" android:extractNativeLibs="true" android:icon="@mipmap/appicon" android:label="O.W.Lite" android:roundIcon="@mipmap/appicon_round" android:supportsRtl="true">
     <activity android:name="crc6466e339ee51d4f0f2.MainActivity" android:configChanges="density|orientation|smallestScreenSize|screenLayout|screenSize|uiMode" android:exported="true" android:theme="@style/Maui.SplashTheme">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
