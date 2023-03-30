@@ -706,20 +706,20 @@
     <AppxPackagedFile Include="C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
-      <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\logoccSplashScreen.scale-100.png">
+      <PackagePath>logoccSplashScreen.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
-      <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\logoccSplashScreen.scale-125.png">
+      <PackagePath>logoccSplashScreen.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
-      <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\logoccSplashScreen.scale-150.png">
+      <PackagePath>logoccSplashScreen.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
-      <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\logoccSplashScreen.scale-200.png">
+      <PackagePath>logoccSplashScreen.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
-      <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\logoccSplashScreen.scale-400.png">
+      <PackagePath>logoccSplashScreen.scale-400.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -879,6 +879,27 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logocc.scale-100.png">
+      <PackagePath>logocc.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logocc.scale-125.png">
+      <PackagePath>logocc.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logocc.scale-150.png">
+      <PackagePath>logocc.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logocc.scale-200.png">
+      <PackagePath>logocc.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logocc.scale-400.png">
+      <PackagePath>logocc.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\owl.scale-100.png">
+      <PackagePath>owl.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\owlogo.scale-100.png">
+      <PackagePath>owlogo.scale-100.png</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -3,7 +3,7 @@
   <Identity Name="84095948-a56e-4584-bd66-e9d87076d5ae" Publisher="CN=User Name" Version="1.0.0.1" />
   <mp:PhoneIdentity PhoneProductId="8F1CA388-EDF2-40F2-A068-CBAF6270FD02" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
-    <DisplayName>Open Weather Lite</DisplayName>
+    <DisplayName>O.W.Lite</DisplayName>
     <PublisherDisplayName>User Name</PublisherDisplayName>
     <Logo>appiconStoreLogo.png</Logo>
   </Properties>
@@ -16,14 +16,14 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="$targetentrypoint$">
-      <uap:VisualElements DisplayName="Open Weather Lite" Description="Open Weather Lite" Square150x150Logo="appiconMediumTile.png" Square44x44Logo="appiconLogo.png" BackgroundColor="transparent">
-        <uap:DefaultTile Square71x71Logo="appiconSmallTile.png" Wide310x150Logo="appiconWideTile.png" Square310x310Logo="appiconLargeTile.png" ShortName="Open Weather Lite">
+      <uap:VisualElements DisplayName="O.W.Lite" Description="O.W.Lite" Square150x150Logo="appiconMediumTile.png" Square44x44Logo="appiconLogo.png" BackgroundColor="transparent">
+        <uap:DefaultTile Square71x71Logo="appiconSmallTile.png" Wide310x150Logo="appiconWideTile.png" Square310x310Logo="appiconLargeTile.png" ShortName="O.W.Lite">
           <uap:ShowNameOnTiles>
             <uap:ShowOn Tile="square150x150Logo" />
             <uap:ShowOn Tile="wide310x150Logo" />
           </uap:ShowNameOnTiles>
         </uap:DefaultTile>
-        <uap:SplashScreen Image="owlogoSplashScreen.png" />
+        <uap:SplashScreen Image="logoccSplashScreen.png" />
       </uap:VisualElements>
     </Application>
   </Applications>

@@ -35,7 +35,7 @@
 		<MauiIcon Include="Resources\AppIcon\appicon.svg" ForegroundFile="Resources\Images\owl.png" Color="#737373" />
 
 		<!-- Splash Screen -->
-		<MauiSplashScreen Include="Resources\Images\owlogo.png" Color="#737373" BaseSize="128,128" />
+		<MauiSplashScreen Include="Resources\Images\logocc.svg" Color="#737373" BaseSize="128,128" />
 
 		<!-- Images -->
 		<MauiImage Include="Resources\Images\*" />
@@ -49,6 +49,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Resources\Images\LogoCC.svg" />
 	  <None Remove="Resources\Images\owl.png" />
 	  <None Remove="Resources\Images\owlogo.png" />
 	</ItemGroup>

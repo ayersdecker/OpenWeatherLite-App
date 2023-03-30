@@ -239,9 +239,11 @@ C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debu
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot.png
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@2x.png
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@3x.png
-C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash.png
-C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash@2x.png
-C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash@3x.png
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\logocc.png
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\logocc@2x.png
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\logocc@3x.png
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\owl.png
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\owlogo.png
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-ios\iossimulator-x64\mauiimage.stamp
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\MauiInfo.plist
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-ios\iossimulator-x64\mauifont.stamp

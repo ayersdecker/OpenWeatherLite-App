@@ -21,15 +21,10 @@ C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debu
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\resizetizer\f\OpenSans-Regular.ttf
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\resizetizer\f\OpenSans-Semibold.ttf
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\resizetizer\r\drawable-hdpi\dotnet_bot.png
-C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\resizetizer\r\drawable-hdpi\splash.png
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\resizetizer\r\drawable-mdpi\dotnet_bot.png
-C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\resizetizer\r\drawable-mdpi\splash.png
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\resizetizer\r\drawable-xhdpi\dotnet_bot.png
-C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\resizetizer\r\drawable-xhdpi\splash.png
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\resizetizer\r\drawable-xxhdpi\dotnet_bot.png
-C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\resizetizer\r\drawable-xxhdpi\splash.png
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\resizetizer\r\drawable-xxxhdpi\dotnet_bot.png
-C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\resizetizer\r\drawable-xxxhdpi\splash.png
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\resizetizer\r\mipmap-anydpi-v26\appicon.xml
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\resizetizer\r\mipmap-anydpi-v26\appicon_round.xml
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\resizetizer\r\mipmap-hdpi\appicon.png
@@ -962,6 +957,13 @@ C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debu
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\android\assets\System.Runtime.Extensions.dll
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\android\assets\System.Runtime.Serialization.Formatters.dll
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\android\assets\System.Xml.dll
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\resizetizer\r\drawable\owlogo.png
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\resizetizer\r\drawable\owl.png
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\resizetizer\r\drawable-hdpi\logocc.png
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\resizetizer\r\drawable-mdpi\logocc.png
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\resizetizer\r\drawable-xhdpi\logocc.png
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\resizetizer\r\drawable-xxhdpi\logocc.png
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\resizetizer\r\drawable-xxxhdpi\logocc.png
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\android\typemaps.arm64-v8a.ll
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\android\environment.arm64-v8a.ll
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\android\compressed_assemblies.arm64-v8a.ll
@@ -970,6 +972,3 @@ C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debu
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\android\compressed_assemblies.arm64-v8a.o
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\android\jni_remap.arm64-v8a.o
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\app_shared_libraries\arm64-v8a\libxamarin-app.so
-C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\resizetizer\r\drawable\owsplash.png
-C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\resizetizer\r\drawable\owlogo.png
-C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-android\resizetizer\r\drawable\owl.png
