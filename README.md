@@ -3,7 +3,7 @@ Version 1.0 is available now!
 
 > Purpose
 
-This application was a test of both MAUI device controls alongside the openWeatherAPI. The project is meant to utilize tools studied during my NMAD 261 Course - RIT/NTID. Though not a large project like others in my collection. This application was my first attempt at using API in a mobile setting. Please keep in mind that updates are on its way! 
+This application was a test of both MAUI device controls alongside the openWeatherAPI. The project is meant to utilize tools studied during my NMAD 261 Course - RIT/NTID. Though not a large project like others in my collection. This application was my first attempt at using API in a mobile setting. Please keep in mind that updates are on it's way! 
 
 > Is it free?
 
