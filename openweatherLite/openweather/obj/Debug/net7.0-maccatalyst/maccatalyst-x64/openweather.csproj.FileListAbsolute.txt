@@ -263,3 +263,6 @@ C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debu
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\openweather.pdb
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\openweather.genruntimeconfig.cache
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\ref\openweather.dll
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\dawhite.png
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\dawhite@2x.png
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\dawhite@3x.png

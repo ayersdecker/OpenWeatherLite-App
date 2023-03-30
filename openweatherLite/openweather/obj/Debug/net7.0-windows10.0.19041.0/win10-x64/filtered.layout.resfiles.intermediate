@@ -46,6 +46,11 @@ appiconWideTile.scale-125.png
 appiconWideTile.scale-150.png
 appiconWideTile.scale-200.png
 appiconWideTile.scale-400.png
+dawhite.scale-100.png
+dawhite.scale-125.png
+dawhite.scale-150.png
+dawhite.scale-200.png
+dawhite.scale-400.png
 dotnet_bot.scale-100.png
 dotnet_bot.scale-125.png
 dotnet_bot.scale-150.png
@@ -58,9 +63,9 @@ logocc.scale-200.png
 logocc.scale-400.png
 owl.scale-100.png
 owlogo.scale-100.png
-logoccSplashScreen.scale-100.png
-logoccSplashScreen.scale-125.png
-logoccSplashScreen.scale-150.png
-logoccSplashScreen.scale-200.png
-logoccSplashScreen.scale-400.png
+dawhiteSplashScreen.scale-100.png
+dawhiteSplashScreen.scale-125.png
+dawhiteSplashScreen.scale-150.png
+dawhiteSplashScreen.scale-200.png
+dawhiteSplashScreen.scale-400.png
 AboutAssets.txt

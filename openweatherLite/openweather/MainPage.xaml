@@ -18,6 +18,7 @@
                 <Label
                     Text="Loading Local Weather"
                     Margin="0,50,0,0"
+                    FontAttributes="Bold"
                     HorizontalOptions="Center"/>
                 <ActivityIndicator 
                     Margin="10"
@@ -26,9 +27,9 @@
             <VerticalStackLayout x:Name="RunningPage" IsVisible="False">
                 <Label  x:Name="currentLabel"
                     Text="Current Weather For"
-                    FontSize="20"
+                    FontSize="25"
                     FontAttributes="Bold"
-                    Opacity=".6"
+                    Opacity=".4"
                     HorizontalOptions="Center"/>
                 <Label  x:Name="currentText"
                     HorizontalOptions="Center"
@@ -105,12 +106,15 @@
                    FontAttributes="Bold"/>
             </VerticalStackLayout>
                 <Button Text="Refresh Data"
-                        Margin="10"
+                        Margin="12"
                         FontSize="12"
+                        WidthRequest="200"
                         FontAttributes="Bold"
                         TextColor="White"
                         Clicked="Button_Clicked"
                         BackgroundColor="#00000000"
+                        BorderColor="#70FFFFFF"
+                        BorderWidth="3"
                         />
             </VerticalStackLayout>
 

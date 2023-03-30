@@ -318,11 +318,6 @@ C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debu
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
-C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\LogoCCSplashScreen.scale-100.png
-C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\LogoCCSplashScreen.scale-125.png
-C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\LogoCCSplashScreen.scale-150.png
-C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\LogoCCSplashScreen.scale-200.png
-C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\LogoCCSplashScreen.scale-400.png
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logocc.scale-100.png
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logocc.scale-125.png
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logocc.scale-150.png
@@ -330,3 +325,13 @@ C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debu
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logocc.scale-400.png
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\owl.scale-100.png
 C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\owlogo.scale-100.png
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\dawhiteSplashScreen.scale-100.png
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\dawhiteSplashScreen.scale-125.png
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\dawhiteSplashScreen.scale-150.png
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\dawhiteSplashScreen.scale-200.png
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\dawhiteSplashScreen.scale-400.png
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dawhite.scale-100.png
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dawhite.scale-125.png
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dawhite.scale-150.png
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dawhite.scale-200.png
+C:\Users\ayers\source\repos\openweatherLite\openweatherLite\openweather\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dawhite.scale-400.png

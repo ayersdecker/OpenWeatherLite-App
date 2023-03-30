@@ -12,7 +12,7 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 
 		<!-- Display name -->
-		<ApplicationTitle>O.W.Lite</ApplicationTitle>
+		<ApplicationTitle>OWL</ApplicationTitle>
 
 		<!-- App Identifier -->
 		<ApplicationId>com.companyname.openweather</ApplicationId>
@@ -32,11 +32,10 @@
 
 	<ItemGroup>
 		<!-- App Icon -->
-		<MauiIcon Include="Resources\AppIcon\appicon.svg" ForegroundFile="Resources\Images\owl.png" Color="#737373" />
+		<MauiIcon Include="Resources\AppIcon\appicon.svg" ForegroundFile="Resources\Images\owllogo.svg" Color="#737373" />
 
 		<!-- Splash Screen -->
-		<MauiSplashScreen Include="Resources\Images\logocc.svg" Color="#737373" BaseSize="128,128" />
-
+		<MauiSplashScreen Include="Resources\Images\dawhite.svg" Color="#737373" BaseSize="128,128" />
 		<!-- Images -->
 		<MauiImage Include="Resources\Images\*" />
 		<MauiImage Update="Resources\Images\dotnet_bot.svg" BaseSize="168,208" />
@@ -49,8 +48,10 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Resources\Images\dawhite.svg" />
 	  <None Remove="Resources\Images\LogoCC.svg" />
 	  <None Remove="Resources\Images\owl.png" />
+	  <None Remove="Resources\Images\owllogo.svg" />
 	  <None Remove="Resources\Images\owlogo.png" />
 	</ItemGroup>
 
